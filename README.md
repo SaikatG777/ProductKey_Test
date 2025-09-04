@@ -1,1 +1,1 @@
-Basic Springboot application
+This is a Basic Springboot application.
